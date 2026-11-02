@@ -1,0 +1,5 @@
+# app-ads.txt: TEMPLATE. Replace pub-0000000000000000 with your AdMob publisher ID
+# (AdMob > Settings > Account information) and remove these comment lines.
+# It must be served at the ROOT of the developer website in your Play listing
+# (docs/HUMAN_TASKS.md, "Website").
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
